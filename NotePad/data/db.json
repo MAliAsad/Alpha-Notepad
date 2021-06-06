@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Friend's Birthday",
+      "details": "This birthday I wish you and your family abundance, happiness, and health. May lady luck come especially for the birthday boy.",
+      "category": "reminder",
+      "id": 1
+    },
+    {
+      "title": "Order a pizza",
+      "details": "Order a large size pizza. It should be Fajita flavour with fries and cold Drink.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Search for internship",
+      "details": "Search for an internship in MERN stack and start working.",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "Pay your gym fees",
+      "details": "Pay your gym fees on time before 10th of this month.",
+      "category": "money",
+      "id": 5
+    }
+  ]
+}
